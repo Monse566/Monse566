@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on custome service in contac center :p
-- 🌱 I’m currently learning on learning about web development 🖥️
+- 🌱 I’m currently learning about web development 🖥️
 - 👯 I’m looking to collaborate on in projects that have a great impact on people's lives 
 - 💬 Ask me about Fortnite <3
 - 📫 How to reach me: alejandramvc666@gmail.com

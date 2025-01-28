@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on custome service in contac center :p
+- 🔭 I’m currently working on Cake Decorator :p 
 - 🌱 I’m currently learning about web development 🖥️
 - 👯 I’m looking to collaborate on in projects that have a great impact on people's lives 
 - 💬 Ask me about Fortnite <3
